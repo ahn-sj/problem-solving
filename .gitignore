@@ -9,4 +9,4 @@ HELP.md
 .input-file-path.txt
 gradlew
 gradlew.bat
-gradle/
+gradle/**
