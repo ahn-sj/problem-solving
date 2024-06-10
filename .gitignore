@@ -1,7 +1,12 @@
 .idea
 .gradle/
 build/
+out/
 build.gradle
 HELP.md
 **/src/test/**/build/
 .DS_Store
+.input-file-path.txt
+gradlew
+gradlew.bat
+gradle/
