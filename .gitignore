@@ -1,0 +1,7 @@
+.idea
+.gradle/
+build/
+build.gradle
+HELP.md
+**/src/test/**/build/
+.DS_Store
